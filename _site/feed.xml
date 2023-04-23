@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://imanyakin.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://imanyakin.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-04-23T23:33:15+01:00</updated><id>https://imanyakin.github.io/feed.xml</id><title type="html">blank</title><subtitle>Attempting to write more
-</subtitle><entry><title type="html">Unexpected behaviours of expectations</title><link href="https://imanyakin.github.io/blog/2023/unexpected-behaviours-of-expectations/" rel="alternate" type="text/html" title="Unexpected behaviours of expectations" /><published>2023-04-23T01:00:00+01:00</published><updated>2023-04-23T01:00:00+01:00</updated><id>https://imanyakin.github.io/blog/2023/unexpected-behaviours-of-expectations</id><content type="html" xml:base="https://imanyakin.github.io/blog/2023/unexpected-behaviours-of-expectations/"><![CDATA[<p>The average/mean/expectation is perhaps the most known and commonly used statistical estimator. We tend to use it when we want to estimate the <code class="language-plaintext highlighter-rouge">location</code> of the distribution - its centre.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://imanyakin.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://imanyakin.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-04-23T23:43:15+01:00</updated><id>https://imanyakin.github.io/feed.xml</id><title type="html">blank</title><subtitle>Attempting to write more
+</subtitle><entry><title type="html">Unexpected behaviours of expectations [WIP]</title><link href="https://imanyakin.github.io/blog/2023/unexpected-behaviours-of-expectations/" rel="alternate" type="text/html" title="Unexpected behaviours of expectations [WIP]" /><published>2023-04-23T01:00:00+01:00</published><updated>2023-04-23T01:00:00+01:00</updated><id>https://imanyakin.github.io/blog/2023/unexpected-behaviours-of-expectations</id><content type="html" xml:base="https://imanyakin.github.io/blog/2023/unexpected-behaviours-of-expectations/"><![CDATA[<p>The average/mean/expectation is perhaps the most known and commonly used statistical estimator. We tend to use it when we want to estimate the <code class="language-plaintext highlighter-rouge">location</code> of the distribution - its centre.</p>
 
 <p>Most often when faced with a set of values (samples) \(x_1,x_2, ... , x_n\) (representing instantiations of a random variable \(X\)) we can estimate the expectation as \(\mathbb{E}(X) = \frac{1}{n}\sum_{i=1}^{i=n} x_i\).</p>
 
@@ -31,26 +31,4 @@
 
 <p>While the assumption that a distribution is Gaussian is useful, it may not hold in practice - symmetric distributions for which the mean is undefined exist!</p>
 
-<h2 id="cauchy-distribution">Cauchy distribution</h2>
-
-<!-- 
-This theme supports rendering beautiful math in inline and display modes using [MathJax 3](https://www.mathjax.org/) engine. You just need to surround your math expression with `$$`, like `$$ E = mc^2 $$`. If you leave it inside a paragraph, it will produce an inline expression, just like $$ E = mc^2 $$.
-
-To use display mode, again surround your expression with `$$` and place it as a separate paragraph. Here is an example:
-
-$$
-\sum_{k=1}^\infty |\langle x, e_k \rangle|^2 \leq \|x\|^2
-$$
-
-You can also use `\begin{equation}...\end{equation}` instead of `$$` for display mode math.
-MathJax will automatically number equations:
-
-\begin{equation}
-\label{eq:cauchy-schwarz}
-\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
-\end{equation}
-
-and by adding `\label{...}` inside the equation environment, we can now refer to the equation using `\eqref`.
-
-Note that MathJax 3 is [a major re-write of MathJax](https://docs.mathjax.org/en/latest/upgrading/whats-new-3.0.html) that brought a significant improvement to the loading and rendering speed, which is now [on par with -->
-<p>KaTeX](http://www.intmath.com/cg5/katex-mathjax-comparison.php).</p>]]></content><author><name></name></author><category term="math" /><category term="stats" /><summary type="html"><![CDATA[Averaging and times when it can go wrong]]></summary></entry></feed>
+<h2 id="cauchy-distribution">Cauchy distribution</h2>]]></content><author><name></name></author><category term="math" /><category term="stats" /><summary type="html"><![CDATA[Averaging and times when it can go wrong]]></summary></entry></feed>
